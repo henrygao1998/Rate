@@ -1,5 +1,27 @@
 <resources>
-    <string name="app_name">First</string>
-    <string name="Hello">Happy Birthday</string>
+    <string name="app_name">Exchange Rate</string>
+    <string name="Hello">Hello</string>
+    <string name="hint_str">Input the temperature in Celcius</string>
+    <string name="btn_label">Temperature</string>
+    <string name="txtout">txtout</string>
+    <string name="inp">inp</string>
+    <string name="btn">calculate</string>
+    <string name="answer">Fahrenheit：</string>
+    <string name="team">Team A</string>
+    <string name="team2">Team B</string>
+    <string name="score">0</string>
+    <string name="btn1">+1 point</string>
+    <string name="btn2">+2 points</string>
+    <string name="btn3">+3 points</string>
+    <string name="reset">Reset</string>
+    <string name="btn_dollar_label">Dollar</string>
+    <string name="rmb_hint">Input RMB</string>
+    <string name="btn_euro_label">Euro</string>
+    <string name="btn_won_label">Won</string>
+    <string name="btn_open_label">CONFIG</string>
+    <string name="btn_save_label">SAVE</string>
+    <string name="menu_set_label">Setting</string>
+    <string name="label_open_list">OpenList</string>
+
 
 </resources>

@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">First</string>
-    <string name="Hello">生日快乐</string>
+    <string name="app_name">汇率转换</string>
+    <string name="Hello">你好</string>
+    <string name="hint_str">请输入摄氏度</string>
+    <string name="btn_label">温度转换器</string>
+    <string name="btn">转换为华氏温度</string>
+    <string name="txtout">登录1</string>
+    <string name="inp">登录2</string>
+    <string name="answer">结果为：</string>
+    <string name="team">团队A</string>
+    <string name="score">0</string>
+    <string name="btn1">+1分</string>
+    <string name="btn2">+2分</string>
+    <string name="btn3">+3分</string>
+    <string name="reset">重置</string>
+    <string name="team2">团队B</string>
+    <string name="btn_dollar_label">美元</string>
+    <string name="rmb_hint">请输入人民币</string>
+    <string name="btn_euro_label">欧元</string>
+    <string name="btn_won_label">韩元</string>
+    <string name="btn_open_label">显示数据到控件</string>
+    <string name="btn_save_label">保存</string>
+    <string name="menu_set_label">设置</string>
+    <string name="label_open_list">打开列表窗口</string>
 </resources>
