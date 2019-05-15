@@ -41,7 +41,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MyList2Activity" />
-        <activity android:name=".RateCalcActivity" android:theme="@style/Base.Theme.AppCompat.Dialog"></activity>
+
     </application>
 
 </manifest>
