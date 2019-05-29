@@ -14,10 +14,7 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".MainActivity">
-
-
-        </activity>
+        <activity android:name=".MainActivity"></activity>
         <activity android:name=".SecondActivity" />
         <activity android:name=".ThirdActivity">
             <intent-filter>
@@ -31,9 +28,13 @@
         <activity android:name=".MyListActivity" />
         <activity android:name=".MyList2Activity" />
         <activity android:name=".RateCalcActivity" />
+        <activity android:name=".FrameActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
-
-
 
 </manifest>

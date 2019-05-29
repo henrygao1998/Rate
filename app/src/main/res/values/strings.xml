@@ -22,6 +22,9 @@
     <string name="btn_save_label">SAVE</string>
     <string name="menu_set_label">Setting</string>
     <string name="label_open_list">OpenList</string>
+    <string name="rdo_home_label">动物</string>
+    <string name="rdo_func_label">城市</string>
+    <string name="rdo_setting_label">运动</string>
 
 
 </resources>
